@@ -2,7 +2,7 @@
 
 while [ true ]
 do
-    if [ "$(curl -s http://localhost:5000/)" = 'Greetings from Springboot..!!!' ]
+    if [ "$(curl -s http://localhost:5000/)" != 'Greetings from Springboot..!!!' ]
     then
         exit 0
     else
