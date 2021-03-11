@@ -23,3 +23,8 @@ and Kubernetes
 # DEVOPS Essential:
 
 ![image](https://user-images.githubusercontent.com/54719289/110841231-a7caf480-82cb-11eb-9f89-ac26820215e5.png)
+
+![image](https://user-images.githubusercontent.com/54719289/110842914-b6b2a680-82cd-11eb-9bad-aad4e6c524da.png)
+
+![image](https://user-images.githubusercontent.com/54719289/110843308-21fc7880-82ce-11eb-8e9a-b4d6b6f2cb66.png)
+
