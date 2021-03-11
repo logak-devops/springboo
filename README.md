@@ -17,4 +17,9 @@ github actions
 # Monitoring:
 
 ![image](https://user-images.githubusercontent.com/54719289/110833146-2753c600-82c2-11eb-9f6a-297986e895a3.png)
- and Kubernetes
+
+and Kubernetes
+
+# DEVOPS Essential:
+
+![image](https://user-images.githubusercontent.com/54719289/110841231-a7caf480-82cb-11eb-9f89-ac26820215e5.png)
